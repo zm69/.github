@@ -1,7 +1,5 @@
 ## Hi 👋
 
-I'm an MMORPG gameplay developer by day and a game engine developer by night.
-
 ### Open-Source Projects
 
 * **[ODE_BRUTAL_ECS](https://github.com/odin-engine/ode_brutal_ecs)** – A manual, pure archetype-based, stripped-down version of ODE_ECS built for extreme speed, full control, and clarity.
