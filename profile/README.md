@@ -1,9 +1,14 @@
 ## Hi 👋
 
-### My Open-Source Projects
+### My Current Open-Source Projects
 
 * **[ODE_BRUTAL_ECS](https://github.com/odin-engine/ode_brutal_ecs)** – A minimal, manual, high-performance archetype ECS written in Odin.
 * **[ODE_ECS](https://github.com/odin-engine/ode_ecs)** – A high-performance hybrid [Entity-Component-System](/docs/what_is_ecs.md) written in Odin.
+
+Older open-source projects:
+
+- [The Vulkan "hello world" (triangle) example is divided into parts for learning purposes.](https://github.com/zm69/odin_vulkan_triangle_example)
+- [The simplest Odin Vulkan app (or almost the simplest)](https://github.com/zm69/simplest_odin_vulkan)
 
 *More coming soon!*
 
