@@ -1,11 +1,11 @@
 ## Hi 👋
 
-### Open-Source Projects
+### My Open-Source Projects
 
 * **[ODE_BRUTAL_ECS](https://github.com/odin-engine/ode_brutal_ecs)** – A manual, pure archetype-based, stripped-down version of ODE_ECS built for extreme speed, full control, and clarity.
 * **[ODE_ECS](https://github.com/odin-engine/ode_ecs)** – A high-performance hybrid [Entity-Component-System](/docs/what_is_ecs.md) written in Odin.
 
-*More open-source projects coming soon!*
+*More coming soon!*
 
 <!--
 **zm69/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
