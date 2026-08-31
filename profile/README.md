@@ -3,7 +3,7 @@
 ### My Current Open-Source Projects
 
 * **[ODE_BRUTAL_ECS](https://github.com/odin-engine/ode_brutal_ecs)** – A minimal, manual, high-performance archetype ECS written in Odin.
-* **[ODE_ECS](https://github.com/odin-engine/ode_ecs)** – A high-performance hybrid [Entity-Component-System](/docs/what_is_ecs.md) written in Odin.
+* **[ODE_ECS](https://github.com/odin-engine/ode_ecs)** – A high-performance hybrid Entity-Component-System written in Odin.
 
 Older open-source projects:
 
