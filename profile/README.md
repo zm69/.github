@@ -1,10 +1,12 @@
+![ODE_DOS banner](https://github.com/odin-engine/ode_dos/blob/main/img/banner.png)
+
 ## Hi 👋
 
 ### My Current Open-Source Projects
-
-* **[ODE_BRUTAL_ECS](https://github.com/odin-engine/ode_brutal_ecs)** – A minimal, manual, high-performance archetype ECS written in Odin.
+* **[ODE_DOS](https://github.com/odin-engine/ode_dos)** - A Thief-style Dark Object System for Odin.
 * **[ODE_ECS](https://github.com/odin-engine/ode_ecs)** – A high-performance hybrid Entity-Component-System written in Odin.
 * **[ODE_KDL](https://github.com/odin-engine/ode_kdl)** – A KDL v2 document-language tokenizer, pull-parser, and emitter for Odin, ported from the C library ckdl.
+* **[ODE_BRUTAL_ECS](https://github.com/odin-engine/ode_brutal_ecs)** – A minimal, manual, high-performance archetype ECS written in Odin.
 
 Older open-source projects:
 
