@@ -7,6 +7,7 @@
 * **[ODE_ECS](https://github.com/odin-engine/ode_ecs)** – A high-performance hybrid Entity-Component-System written in Odin.
 * **[ODE_KDL](https://github.com/odin-engine/ode_kdl)** – A KDL v2 document-language tokenizer, pull-parser, and emitter for Odin, ported from the C library ckdl.
 * **[ODE_BRUTAL_ECS](https://github.com/odin-engine/ode_brutal_ecs)** – A minimal, manual, high-performance archetype ECS written in Odin.
+* **[LU_BRAIN](https://github.com/zm69/lu_brain) - Ludyna Brain (LU_BRAIN) is a human-like memory database, written in Odin.
 
 Older open-source projects:
 
